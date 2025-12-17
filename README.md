@@ -1,6 +1,6 @@
 
 # spring-boot-notification-service
-=======
+
 # Sport-saison-Notifier
 ## Beschreibung:
 Die Backendanwendung ist ein Cloud-Service zur automatischen Benachrichtigung von Datenmanagern und Sportredakteuren über den Beginn neuer Sport-Saisons.
