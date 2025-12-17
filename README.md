@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # spring-boot-notification-service
 =======
 # Sport-saison-Notifier
@@ -103,4 +103,4 @@ Vielen Dank! Ihre Bestätigung für TableStarDelivererEntry (basketball.damen.db
 ### Tests
 Die Integrationstests werden mit der Testenv abgefahren
 Vorraussetzung ist das Docker-(Desktop) mit der Kubernetes Engine gestartet ist.
->>>>>>> de97340 (Initial commit: Spring Boot service)
+
